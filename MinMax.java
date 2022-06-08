@@ -1,7 +1,3 @@
-# DizilerdeMinMaxSayi
-Dizilerde Kullanıcının Belirlediği Sayıya Yakın  Min Max Sayi Belirleme
-
-```java
 import java.util.Arrays;
 import java.util.Scanner;
 public class MinMax {
@@ -35,6 +31,3 @@ public class MinMax {
     }
     
 }
-
-```
-
